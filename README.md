@@ -6,9 +6,9 @@
 ### A budding programmer exploring new fields of development.<br>
 
 - 👨‍🏭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** <br>
-- 🏫 I’m currently learning **Problem Solving & Data Science** <br>
-- 🙌 I’m looking to collaborate on **Data Science** <br>
-- 🤔 I’m looking for help with **Data Science and coompetitive programming**<br>
+- 🏫 I’m currently learning **Problem Solving & Web developer** <br>
+- 🙌 I’m looking to collaborate on **Web Developer** <br>
+- 🤔 I’m looking for help with **web developer and coompetitive programming**<br>
 - 🥅 2021 Goals: **Contribute more  projects & learn new stacks** <br>
 
 
